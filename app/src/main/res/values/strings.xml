@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="detail_transition">transition_to_detail</string>
+    <string name="error">Error</string>
+    <string name="calculate_bill">Calculate bill</string>
+    <string name="addDish">Add dish</string>
+    <string name="addToTable">Add</string>
+    <string name="Price">Price</string>
+    <string name="Description">Description</string>
+    <string name="Allergens">Allergens</string>
+    <string name="Pay">Pay</string>
+    <string name="wahDishes">Clean dishes</string>
+    <string name="toPay">To pay</string>
+    <string name="euro">€</string>
+    <string name="table_name">TABLE</string>
+    <string name="menu_title">MENU</string>
+    <string name="allergens">allergens</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="Ok">Ok</string>
+    <string name="total_bill_text">Total</string>
+    <string name="mocky_url">http://www.mocky.io/v2/593db143110000f51e722af6</string>
+    <string name="retry_text">Retry</string>
+    <string name="clear_table">Clear table</string>
+</resources>
